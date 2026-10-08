@@ -1,0 +1,19 @@
+{
+  "name": "cloudxray",
+  "version": "1.0.0",
+  "description": "Search, compare and shortlist FinOps and cloud cost management vendors from the CloudXray AI directory",
+  "author": {
+    "name": "CloudXray AI",
+    "url": "https://cloudxray.ai"
+  },
+  "homepage": "https://cloudxray.ai/developers",
+  "repository": "https://github.com/cloudxrayai/cloudxray-ai",
+  "license": "MIT",
+  "keywords": [
+    "finops",
+    "cloud-cost",
+    "vendor-selection",
+    "mcp",
+    "focus"
+  ]
+}

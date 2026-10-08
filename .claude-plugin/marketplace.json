@@ -1,0 +1,15 @@
+{
+  "name": "cloudxray",
+  "description": "CloudXray AI FinOps vendor directory for Claude: MCP server and vendor-selection skill",
+  "owner": {
+    "name": "CloudXray AI",
+    "url": "https://cloudxray.ai"
+  },
+  "plugins": [
+    {
+      "name": "cloudxray",
+      "source": "./",
+      "description": "Search, compare and shortlist FinOps vendors from the CloudXray AI directory, with a guided vendor-selection skill"
+    }
+  ]
+}
