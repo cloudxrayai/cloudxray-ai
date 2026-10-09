@@ -57,6 +57,10 @@ mcp-registry/        official MCP Registry entry (server.json)
 scripts/build.sh     packages release files into dist/ (claude.ai skill zip, Cursor rule)
 ```
 
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md).
+
 ## About
 
 [CloudXray AI](https://cloudxray.ai) is an independent FinOps research directory and advisory practice. Vendor data comes from automated research reviewed by CloudXray AI; verify important details with vendors.
