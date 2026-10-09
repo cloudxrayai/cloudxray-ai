@@ -1,0 +1,6 @@
+{
+  "name": "cloudxray",
+  "version": "1.0.0",
+  "description": "Search, compare and shortlist FinOps and cloud cost management vendors from the CloudXray AI directory.",
+  "skills": "./skills/"
+}
