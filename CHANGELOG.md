@@ -2,6 +2,14 @@
 
 Changes to the CloudXray AI API, MCP server, skill and integrations. Versions follow the MCP server and plugin version (`mcp-registry/server.json`, `.claude-plugin/plugin.json`).
 
+## 1.0.1 (2026-10-15)
+
+### Accounts and terms
+- Refused and failed calls are now recorded with their reason, so CloudXray AI can see and help when a connection gets stuck.
+- No separate terms step for connected apps. The [API & MCP Terms](https://cloudxray.ai/api-terms) are now part of the CloudXray AI [Terms of Use](https://cloudxray.ai/terms-of-use), which you accept when you sign up.
+- Accounts without that sign-up consent (created before October 15, 2026, or in some app sign-up flows) see a one-time notice with a link to the terms on their first tool call; the call then works as normal.
+- API keys: if you accepted the terms at sign-up, creating a key no longer asks you to accept them again.
+
 ## 1.0.0 (2026-10-09)
 
 First public release of programmatic access to the CloudXray AI directory of 290+ FinOps and cloud cost management vendors.
